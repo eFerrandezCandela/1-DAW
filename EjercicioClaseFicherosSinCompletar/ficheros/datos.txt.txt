@@ -1,0 +1,3 @@
+GATO 5253 Nala SUELDO BASE: 240,00 SUELDO: 440,00
+PERRO 99 Homer Sueldo Base: 400,00 Sueldo: 500,00
+GATO 221 Rambo Sueldo Base: 325,00 Sueldo: 525,00
